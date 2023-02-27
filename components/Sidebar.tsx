@@ -22,6 +22,7 @@ function Sidebar() {
   return (
     <div className="p-2 flex flex-col h-screen">
       <div className="flex-1">
+      <h1 className="text-white text-center p-3">AlvsGPT</h1>
         <div>
           {/* New Chat */}
           <NewChat />

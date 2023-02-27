@@ -16,7 +16,7 @@ function Login() {
         Sign In to use AlvsGPT
       </button>
 
-      <small className="text-white">Powered by AlvsGTP API and developed by Alvs</small>
+      <small className="text-white">Powered by OPENAPI API and developed by Alvs</small>
     </div>
   );
 }
