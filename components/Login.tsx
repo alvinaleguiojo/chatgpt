@@ -13,10 +13,10 @@ function Login() {
         alt="logo"
       />
       <button onClick={()=> signIn('google')} className="text-white font-bold text-3xl animate-pulse">
-        Sign In to use ChatGPT
+        Sign In to use AlvsGPT
       </button>
 
-      <small className="text-white">Powered by ChatGTP API and developed by Alvs</small>
+      <small className="text-white">Powered by AlvsGTP API and developed by Alvs</small>
     </div>
   );
 }
